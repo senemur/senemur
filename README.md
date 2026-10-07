@@ -84,8 +84,8 @@ $\color{#8A9A5B}\textbf{Full-stack Software Developer}$ & $\color{#8A9A5B}\textb
 <table border="0" cellspacing="0" cellpadding="8">
   <tr>
     <td>
-      <a href="https://github.com/Senemur/Well-Go">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Senemur&repo=Well_Go&theme=dark&bg_color=0d1117&title_color=8A9A5B&icon_color=8A9A5B&text_color=c9d1d9&border_color=30363d" alt="Well-Go"/>
+      <a href="https://github.com/Senemur/Well_Go">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Senemur&repo=Well_Go&theme=dark&bg_color=0d1117&title_color=8A9A5B&icon_color=8A9A5B&text_color=c9d1d9&border_color=30363d" alt="Well_Go"/>
       </a>
     </td>
     <td>
@@ -113,8 +113,8 @@ $\color{#8A9A5B}\textbf{Full-stack Software Developer}$ & $\color{#8A9A5B}\textb
       </a>
     </td>
         <td >
-      <a href="https://github.com/Senemur/AstrologyChart">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Senemur&repo=AspNet-ECommerceApp&theme=dark&bg_color=0d1117&title_color=8A9A5B&icon_color=8A9A5B&text_color=c9d1d9&border_color=30363d" alt="AstrologyChart"/>
+      <a href="https://github.com/Senemur/AspNet-EcommerceApp">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Senemur&repo=AspNet-EcommerceApp&theme=dark&bg_color=0d1117&title_color=8A9A5B&icon_color=8A9A5B&text_color=c9d1d9&border_color=30363d" alt="AspNet-EcommerceApp"/>
       </a>
     </td>
   </tr>
