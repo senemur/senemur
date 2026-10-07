@@ -45,7 +45,6 @@ $\color{#8A9A5B}\textbf{Full-stack Software Developer}$ & $\color{#8A9A5B}\textb
 🔹 [Astrology Chart](https://astrologychart-three.vercel.app/) — Interactive astrology chart application
 
 <br clear="both"/>
----
 
 <!-- ===== TECH STACK ===== -->
 ### Tech Stack & Tools
