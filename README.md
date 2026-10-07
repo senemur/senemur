@@ -31,14 +31,14 @@
 
 <img align="right" src="./lanyard.svg?v=2" height="320" alt="Senem Ürkmez ID Badge"/>
 
-👋 Hi, I'm **Senem**!  
+ Hi, I'm **Senem**!  
 $\color{#8A9A5B}\textbf{Full-stack Software Developer}$ & $\color{#8A9A5B}\textbf{Backend Developer}$
 
-⚙️ Building web applications with $\color{#8A9A5B}\textbf{.NET}$, $\color{#8A9A5B}\textbf{CSharp}$, $\color{#8A9A5B}\textbf{SQL}$, $\color{#8A9A5B}\textbf{Flutter}$ & modern technologies  
+ Building web applications with $\color{#8A9A5B}\textbf{.NET}$, $\color{#8A9A5B}\textbf{CSharp}$, $\color{#8A9A5B}\textbf{SQL}$, $\color{#8A9A5B}\textbf{Flutter}$ & modern technologies  
 
-🚀 Interested in $\color{#8A9A5B}\textbf{scalable backend systems}$, $\color{#8A9A5B}\textbf{clean architecture}$, $\color{#8A9A5B}\textbf{APIs}$ and software architecture  
+ Interested in $\color{#8A9A5B}\textbf{scalable backend systems}$, $\color{#8A9A5B}\textbf{clean architecture}$, $\color{#8A9A5B}\textbf{APIs}$ and software architecture  
 
-🤖 Exploring $\color{#8A9A5B}\textbf{AI}$, $\color{#8A9A5B}\textbf{LLMs}$ and AI-powered applications
+ Exploring $\color{#8A9A5B}\textbf{AI}$, $\color{#8A9A5B}\textbf{LLMs}$ and AI-powered applications
 
 🌐 **Live Projects:**  
 🔹 [Meslek Robotu](https://meslekrobotu.com/) — AI-powered career discovery & recommendation platform  
