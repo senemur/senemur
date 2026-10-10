@@ -36,7 +36,7 @@ $\color{#8A9A5B}\textbf{Full-stack Software Developer}$ & $\color{#8A9A5B}\textb
 
  Building web applications with $\color{#8A9A5B}\textbf{.NET}$, $\color{#8A9A5B}\textbf{CSharp}$, $\color{#8A9A5B}\textbf{SQL}$, $\color{#8A9A5B}\textbf{Flutter}$ & modern technologies  
 
- Interested in $\color{#8A9A5B}\textbf{scalable backend systems}$, $\color{#8A9A5B}\textbf{clean architecture}$, $\color{#8A9A5B}\textbf{APIs}$ and software architecture  
+ Interested in $\color{#8A9A5B}\textbf{scalable backend systems}$, $\color{#8A9A5B}\textbf{clean architecture}$, $\color{#8A9A5B}\textbf{APIs}$ and software architecture. I am also working with layerd architectures and different design patterns
 
  Exploring $\color{#8A9A5B}\textbf{AI}$, $\color{#8A9A5B}\textbf{LLMs}$ and AI-powered applications
 
