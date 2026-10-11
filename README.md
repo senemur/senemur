@@ -40,9 +40,9 @@ $\color{#8A9A5B}\textbf{Full-stack Software Developer}$ & $\color{#8A9A5B}\textb
 
  Exploring $\color{#8A9A5B}\textbf{AI}$, $\color{#8A9A5B}\textbf{LLMs}$ and AI-powered applications
 
-🌐 **Live Projects:**  
-🔹 [Meslek Robotu](https://meslekrobotu.com/) — AI-powered career discovery & recommendation platform  
-🔹 [Astrology Chart](https://astrologychart-three.vercel.app/) — Interactive astrology chart application
+ **Live Projects:**  
+ [Meslek Robotu](https://meslekrobotu.com/) — AI-powered career discovery & recommendation platform  
+ [Astrology Chart](https://astrologychart-three.vercel.app/) — Interactive astrology chart application
 
 <br clear="both"/>
 
