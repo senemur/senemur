@@ -84,36 +84,36 @@ $\color{#8A9A5B}\textbf{Full-stack Software Developer}$ & $\color{#8A9A5B}\textb
   <tr>
     <td>
       <a href="https://github.com/Senemur/Well_Go">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Senemur&repo=Well_Go&theme=dark&bg_color=0d1117&title_color=8A9A5B&icon_color=8A9A5B&text_color=c9d1d9&border_color=30363d" alt="Well_Go"/>
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=Senemur&repo=Well_Go&theme=dark&bg_color=0d1117&title_color=8A9A5B&icon_color=8A9A5B&text_color=c9d1d9&border_color=30363d" alt="Well_Go"/>
       </a>
     </td>
-     <td >
+    <td>
       <a href="https://github.com/Senemur/json-sense">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Senemur&repo=json-sense&theme=dark&bg_color=0d1117&title_color=8A9A5B&icon_color=8A9A5B&text_color=c9d1d9&border_color=30363d" alt="json-sense"/>
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=Senemur&repo=json-sense&theme=dark&bg_color=0d1117&title_color=8A9A5B&icon_color=8A9A5B&text_color=c9d1d9&border_color=30363d" alt="JsonSense"/>
       </a>
     </td>
   </tr>
   <tr>
     <td>
       <a href="https://github.com/Senemur/SpaceColonyManagement">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Senemur&repo=SpaceColonyManagement&theme=dark&bg_color=0d1117&title_color=8A9A5B&icon_color=8A9A5B&text_color=c9d1d9&border_color=30363d" alt="SpaceColonyManagement"/>
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=Senemur&repo=SpaceColonyManagement&theme=dark&bg_color=0d1117&title_color=8A9A5B&icon_color=8A9A5B&text_color=c9d1d9&border_color=30363d" alt="SpaceColonyManagement"/>
       </a>
     </td>
     <td>
       <a href="https://github.com/Senemur/ChatApp">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Senemur&repo=ChatApp&theme=dark&bg_color=0d1117&title_color=8A9A5B&icon_color=8A9A5B&text_color=c9d1d9&border_color=30363d" alt="ChatApp"/>
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=Senemur&repo=ChatApp&theme=dark&bg_color=0d1117&title_color=8A9A5B&icon_color=8A9A5B&text_color=c9d1d9&border_color=30363d" alt="ChatApp"/>
       </a>
     </td>
   </tr>
   <tr>
     <td>
       <a href="https://github.com/Senemur/HotelReservationSystem">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Senemur&repo=HotelReservationSystem&theme=dark&bg_color=0d1117&title_color=8A9A5B&icon_color=8A9A5B&text_color=c9d1d9&border_color=30363d" alt="HotelReservationSystem"/>
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=Senemur&repo=HotelReservationSystem&theme=dark&bg_color=0d1117&title_color=8A9A5B&icon_color=8A9A5B&text_color=c9d1d9&border_color=30363d" alt="HotelReservationSystem"/>
       </a>
     </td>
-    <td >
+    <td>
       <a href="https://github.com/Senemur/AstrologyChart">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Senemur&repo=AstrologyChart&theme=dark&bg_color=0d1117&title_color=8A9A5B&icon_color=8A9A5B&text_color=c9d1d9&border_color=30363d" alt="AstrologyChart"/>
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=Senemur&repo=AstrologyChart&theme=dark&bg_color=0d1117&title_color=8A9A5B&icon_color=8A9A5B&text_color=c9d1d9&border_color=30363d" alt="AstrologyChart"/>
       </a>
     </td>
   </tr>
@@ -125,11 +125,23 @@ $\color{#8A9A5B}\textbf{Full-stack Software Developer}$ & $\color{#8A9A5B}\textb
 ### GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Senemur&show_icons=true&theme=dark&bg_color=0d1117&title_color=8A9A5B&icon_color=8A9A5B&text_color=c9d1d9&border_color=30363d&hide_border=true" alt="GitHub Stats" height="170"/>
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=Senemur&show_icons=true&theme=dark&bg_color=0d1117&title_color=8A9A5B&icon_color=8A9A5B&text_color=c9d1d9&border_color=30363d&hide_border=true"
+    alt="GitHub Stats"
+    height="170"
+  />
   &nbsp;
-  <img src="https://streak-stats.demolab.com/?user=Senemur&theme=dark&background=0d1117&ring=8A9A5B&fire=8A9A5B&currStreakLabel=8A9A5B&sideLabels=c9d1d9&dates=8b949e&hide_border=true" alt="GitHub Streak" height="170"/>
+  <img
+    src="https://streak-stats.demolab.com/?user=Senemur&theme=dark&background=0d1117&ring=8A9A5B&fire=8A9A5B&currStreakLabel=8A9A5B&sideLabels=c9d1d9&dates=8b949e&hide_border=true"
+    alt="GitHub Streak"
+    height="170"
+  />
 </p>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/8A9A5B/Senemur" alt="Contribution Chart" width="100%"/>
+  <img
+    src="https://ghchart.rshah.org/8A9A5B/Senemur"
+    alt="Contribution Chart"
+    width="100%"
+  />
 </p>
