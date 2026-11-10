@@ -100,9 +100,9 @@ $\color{#8A9A5B}\textbf{Full-stack Software Developer}$ & $\color{#8A9A5B}\textb
         <img src="https://github-stats-extended.vercel.app/api/pin/?username=Senemur&repo=SpaceColonyManagement&theme=dark&bg_color=0d1117&title_color=8A9A5B&icon_color=8A9A5B&text_color=c9d1d9&border_color=30363d" alt="SpaceColonyManagement"/>
       </a>
     </td>
-    <td>
-      <a href="https://github.com/Senemur/ChatApp">
-        <img src="https://github-stats-extended.vercel.app/api/pin/?username=Senemur&repo=ChatApp&theme=dark&bg_color=0d1117&title_color=8A9A5B&icon_color=8A9A5B&text_color=c9d1d9&border_color=30363d" alt="ChatApp"/>
+        <td>
+      <a href="https://github.com/Senemur/TokenPeek">
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=Senemur&repo=TokenPeek&theme=dark&bg_color=0d1117&title_color=8A9A5B&icon_color=8A9A5B&text_color=c9d1d9&border_color=30363d" alt="TokenPeek"/>
       </a>
     </td>
   </tr>
@@ -112,9 +112,9 @@ $\color{#8A9A5B}\textbf{Full-stack Software Developer}$ & $\color{#8A9A5B}\textb
         <img src="https://github-stats-extended.vercel.app/api/pin/?username=Senemur&repo=HotelReservationSystem&theme=dark&bg_color=0d1117&title_color=8A9A5B&icon_color=8A9A5B&text_color=c9d1d9&border_color=30363d" alt="HotelReservationSystem"/>
       </a>
     </td>
-    <td>
-      <a href="https://github.com/Senemur/AstrologyChart">
-        <img src="https://github-stats-extended.vercel.app/api/pin/?username=Senemur&repo=AstrologyChart&theme=dark&bg_color=0d1117&title_color=8A9A5B&icon_color=8A9A5B&text_color=c9d1d9&border_color=30363d" alt="AstrologyChart"/>
+<td>
+      <a href="https://github.com/Senemur/ChatApp">
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=Senemur&repo=ChatApp&theme=dark&bg_color=0d1117&title_color=8A9A5B&icon_color=8A9A5B&text_color=c9d1d9&border_color=30363d" alt="ChatApp"/>
       </a>
     </td>
   </tr>
