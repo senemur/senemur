@@ -85,8 +85,8 @@ $\color{#8A9A5B}\textbf{Full-stack Software Developer}$ & $\color{#8A9A5B}\textb
 <table border="0" cellspacing="0" cellpadding="8">
   <tr>
     <td>
-      <a href="https://github.com/Senemur/Well_Go">
-        <img src="https://github-stats-extended.vercel.app/api/pin/?username=Senemur&repo=Well_Go&theme=dark&bg_color=0d1117&title_color=8A9A5B&icon_color=8A9A5B&text_color=c9d1d9&border_color=30363d" alt="Well_Go"/>
+      <a href="https://github.com/Senemur/well-go">
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=Senemur&repo=well-go&theme=dark&bg_color=0d1117&title_color=8A9A5B&icon_color=8A9A5B&text_color=c9d1d9&border_color=30363d" alt="well-go"/>
       </a>
     </td>
     <td>
@@ -97,25 +97,25 @@ $\color{#8A9A5B}\textbf{Full-stack Software Developer}$ & $\color{#8A9A5B}\textb
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/Senemur/SpaceColonyManagement">
-        <img src="https://github-stats-extended.vercel.app/api/pin/?username=Senemur&repo=SpaceColonyManagement&theme=dark&bg_color=0d1117&title_color=8A9A5B&icon_color=8A9A5B&text_color=c9d1d9&border_color=30363d" alt="SpaceColonyManagement"/>
+      <a href="https://github.com/Senemur/space-colony-management">
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=Senemur&repo=space-colony-management&theme=dark&bg_color=0d1117&title_color=8A9A5B&icon_color=8A9A5B&text_color=c9d1d9&border_color=30363d" alt="space-colony-management"/>
       </a>
     </td>
         <td>
-      <a href="https://github.com/Senemur/TokenPeek">
-        <img src="https://github-stats-extended.vercel.app/api/pin/?username=Senemur&repo=TokenPeek&theme=dark&bg_color=0d1117&title_color=8A9A5B&icon_color=8A9A5B&text_color=c9d1d9&border_color=30363d" alt="TokenPeek"/>
+      <a href="https://github.com/Senemur/token-peek">
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=Senemur&repo=token-peek&theme=dark&bg_color=0d1117&title_color=8A9A5B&icon_color=8A9A5B&text_color=c9d1d9&border_color=30363d" alt="token-peek"/>
       </a>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/Senemur/HotelReservationSystem">
-        <img src="https://github-stats-extended.vercel.app/api/pin/?username=Senemur&repo=HotelReservationSystem&theme=dark&bg_color=0d1117&title_color=8A9A5B&icon_color=8A9A5B&text_color=c9d1d9&border_color=30363d" alt="HotelReservationSystem"/>
+      <a href="https://github.com/Senemur/hotel-reservation-system">
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=Senemur&repo=hotel-reservation-system&theme=dark&bg_color=0d1117&title_color=8A9A5B&icon_color=8A9A5B&text_color=c9d1d9&border_color=30363d" alt="hotel-reservation-system"/>
       </a>
     </td>
 <td>
-      <a href="https://github.com/Senemur/ChatApp">
-        <img src="https://github-stats-extended.vercel.app/api/pin/?username=Senemur&repo=ChatApp&theme=dark&bg_color=0d1117&title_color=8A9A5B&icon_color=8A9A5B&text_color=c9d1d9&border_color=30363d" alt="ChatApp"/>
+      <a href="https://github.com/Senemur/chat-app">
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=Senemur&repo=chat-app&theme=dark&bg_color=0d1117&title_color=8A9A5B&icon_color=8A9A5B&text_color=c9d1d9&border_color=30363d" alt="chat-app"/>
       </a>
     </td>
   </tr>
